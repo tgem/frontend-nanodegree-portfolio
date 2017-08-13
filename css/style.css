@@ -1,0 +1,34 @@
+body {
+	color: #2d3c49;	
+}
+
+header {
+	text-align: right;
+	text-transform: uppercase;
+	border-bottom: 5px solid #7d97ad;
+	padding-bottom: 10px;
+	margin-bottom: 25px;
+}
+
+.logo {
+	max-width: 100px;
+}
+
+.interim-header {	
+	color: #7d97ad;
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+section {
+	text-align: center;
+	color: #2d3c49;	
+}
+
+.apptitle {
+	text-transform: uppercase;
+}
+
+.applink {
+	text-transform: lowercase;
+}
